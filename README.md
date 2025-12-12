@@ -7,8 +7,7 @@ Economista | Análisis de datos | Ciencia de datos aplicada
 
 ## 📌 Descripción del proyecto
 
-Este repositorio contiene un **proyecto aplicado de análisis geoespacial en Python** que utiliza la librería **GeoPandas** para integrar datos socioeconómicos oficiales con información geográfica (shapefiles).  
-A través de procesos de *merge* entre tablas estadísticas y geometrías territoriales, el proyecto construye **mapas temáticos** que permiten analizar y visualizar la distribución regional de variables socioeconómicas en Colombia.
+Este repositorio contiene un **proyecto aplicado de análisis geoespacial en Python** que utiliza la librería **GeoPandas** para integrar datos socioeconómicos oficiales con información geográfica (shapefiles). A través de procesos de *merge* entre tablas estadísticas y geometrías territoriales, el proyecto construye **mapas temáticos** que permiten analizar y visualizar la distribución regional de variables socioeconómicas en Colombia.
 
 El enfoque del proyecto es **descriptivo y pedagógico**, orientado a introducir el análisis espacial como herramienta complementaria al análisis estadístico tradicional, especialmente en contextos económicos y sociales.
 
